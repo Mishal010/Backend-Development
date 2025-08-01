@@ -1,0 +1,4 @@
+Create package.json : npm init / npm init -y
+Create a nodemodules folder: npm install / npm i
+Update : npm update
+Uninstall : npm uninstall
